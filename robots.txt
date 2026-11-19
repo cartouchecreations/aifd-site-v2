@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cartouchecreations.github.io/aifd-site-v2/sitemap.xml
